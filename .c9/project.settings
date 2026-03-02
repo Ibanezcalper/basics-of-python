@@ -1,4 +1,10 @@
 {
+    "ace": {
+        "@tabSize": 6
+    },
+    "build": {
+        "@saveall": true
+    },
     "extensions": {
         "@aws.profile": "",
         "@aws.samcli.lambdaTimeout": 90000
